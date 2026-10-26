@@ -3,3 +3,8 @@ cd    - klasor degistirir
 mkdir - yeni klasor olusturur
 pwd   - bulunulan dizini gosterir
 cat   - dosya icerigini ekrana yazdirir
+git init   - yeni repo baslatir
+git add    - dosyayi staging'e alir
+git commit - degisiklikleri kaydeder
+git status - dosyalarin durumunu gosterir
+git log    - commit gecmisini listeler
